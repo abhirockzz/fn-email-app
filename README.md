@@ -23,7 +23,7 @@ Clone this repo
 
 e.g.
 
-`fn create app --annotation oracle.com/oci/subnetIds='["ocid1.subnet.oc1.phx.aaaaaaaaghmsma7mpqhqdhbgnby25u2zo4wqlrrcskvu7jg56dryxt3hgvka"]' --config OCI_EMAIL_DELIVERY_USER_OCID=ocid1.user.oc1..aaaaaaaa4seqx6jeyma46ldy4cbuv35q4l26scz5p4rkz3rauuoioo26qwmq@ocid1.tenancy.oc1..aaaaaaaaydrjm77otncda2xn7qtv7l3hqnd3zxn2u6siwdhniibwfv4wwhta.3n.com --config OCI_EMAIL_DELIVERY_USER_PASSWORD='jsA$>>Fn-wH6T{kiN6)y' --config OCI_EMAIL_DELIVERY_SMTP_SERVER=smtp.us-phoenix-1.oraclecloud.com --config OCI_EMAIL_DELIVERY_APPROVED_SENDER=test@test.com fn-email-app`
+`fn create app --annotation oracle.com/oci/subnetIds='["ocid1.subnet.oc1.phx.aaaaaaaaghmsma7mpqhqdhbgnby25u2zo4wqlrrcskvu7jg56dryxt3hgvkz"]' --config OCI_EMAIL_DELIVERY_USER_OCID=ocid1.user.oc1..aaaaaaaa4seqx6jeyma46ldy4cbuv42q4l26scz5p4rkz3rauuoioo42qwmq@ocid1.tenancy.oc1..aaaaaaaaydrjm77otncda2xn7qtv7l3hqnd3zxn2u6siwdhniibwfv4wwhta.3n.com --config OCI_EMAIL_DELIVERY_USER_PASSWORD='s3cr3t:-)' --config OCI_EMAIL_DELIVERY_SMTP_SERVER=smtp.us-phoenix-1.oraclecloud.com --config OCI_EMAIL_DELIVERY_APPROVED_SENDER=test@test.com fn-email-app`
 
 **Check**
 
