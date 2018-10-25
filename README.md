@@ -1,6 +1,6 @@
 # Functions with OCI Compute
 
-Use Functions to send emails with [Oracle Cloud Infrastructure Email Delivery](https://docs.cloud.oracle.com/iaas/Content/Email/Concepts/overview.htm)
+Function to send emails with [Oracle Cloud Infrastructure Email Delivery](https://docs.cloud.oracle.com/iaas/Content/Email/Concepts/overview.htm). It just uses the plain old [SMTP package in Go](https://golang.org/pkg/net/smtp/)
 
 ## Pre-requisites
 
