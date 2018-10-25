@@ -1,0 +1,10 @@
+schema_version: 20180708
+name: sendemail
+version: 0.0.8
+runtime: go
+entrypoint: ./func
+format: http-stream
+triggers:
+- name: sendemail
+  type: http
+  source: /sendemail
