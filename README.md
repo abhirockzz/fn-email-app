@@ -1,4 +1,4 @@
-# Fn Functions with OCI Email Delivery
+# Function to send emails using Oracle Cloud Infrastructure Email Delivery
 
 Function to send emails with [Oracle Cloud Infrastructure Email Delivery](https://docs.cloud.oracle.com/iaas/Content/Email/Concepts/overview.htm). It just uses the plain old [SMTP package in Go](https://golang.org/pkg/net/smtp/)
 
